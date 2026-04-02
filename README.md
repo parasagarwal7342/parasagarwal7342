@@ -15,8 +15,10 @@
 
 <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parasagarwal7342&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parasagarwal7342&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parasagarwal7342&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/parasagarwal7342)
+<br/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parasagarwal7342&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/parasagarwal7342)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parasagarwal7342&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -55,7 +57,7 @@ Paraditi Corp is my conceptual framework for a future cybersecurity startup, foc
 
 ---
 
-### � Featured Project: Resume-Analyzer
+### 🚀 Featured Project: Resume-Analyzer
 
 **[Resume-Analyzer](https://github.com/parasagarwal7342/Resume-Analyzer)** is an AI-powered intelligence platform that extracts insights, scores job compatibility, and helps you stand out.
 
@@ -65,7 +67,7 @@ Paraditi Corp is my conceptual framework for a future cybersecurity startup, foc
 
 ---
 
-### �️ Tech Stack & Skills
+### 🛠️ Tech Stack & Skills
 
 #### **Offensive Security & Cybersecurity**
 ![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-90%25-red?style=flat-square)
