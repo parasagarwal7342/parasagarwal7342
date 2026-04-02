@@ -15,11 +15,6 @@
 
 <br/>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parasagarwal7342&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/parasagarwal7342)
-<br/>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parasagarwal7342&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/parasagarwal7342)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parasagarwal7342&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
 </div>
 
 ---
