@@ -26,25 +26,25 @@
 
 ### 🛡️ Vision: Paraditi Corp
 
-Paraditi Corp is my conceptual framework for a future cybersecurity startup, focusing on digital sovereignty and fraud prevention.
+Paraditi Corp is my conceptual framework for a future cybersecurity startup. **Note: All Paraditi Corp projects (except Sahaj) are fully Patented and Copyrighted.**
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h4>📘 Digital-Shield-v2</h4>
-      <p><small>Zero-trust fraud prevention for UPI/digital payments. UBS Engine analyzes transactions in <14ms. 14.4M+ nodal points secured.</small></p>
+      <p><small>Zero-trust fraud prevention for UPI/digital payments. UBS Engine analyzes transactions in <14ms. 14.4M+ nodal points secured. <b>[Patented & Copyrighted]</b></small></p>
       <img src="https://img.shields.io/badge/PARADITI_CORP-161b22?style=flat-square" />
     </td>
     <td width="50%" valign="top">
       <h4>📘 ReturnShield</h4>
-      <p><small>3-tier AI + blockchain return fraud protection for MSMEs. Addresses ₹4,000 Cr annual fraud epidemic.</small></p>
+      <p><small>3-tier AI + blockchain return fraud protection for MSMEs. Addresses ₹4,000 Cr annual fraud epidemic. <b>[Patented & Copyrighted]</b></small></p>
       <img src="https://img.shields.io/badge/PARADITI_CORP-161b22?style=flat-square" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>📘 AutoCA-4.0</h4>
-      <p><small>Sovereign AI platform for financial compliance. Features Gemini AI document extraction and blockchain audit trails.</small></p>
+      <p><small>Sovereign AI platform for financial compliance. Features Gemini AI document extraction and blockchain audit trails. <b>[Patented & Copyrighted]</b></small></p>
       <img src="https://img.shields.io/badge/PARADITI_CORP-161b22?style=flat-square" />
     </td>
     <td width="50%" valign="top">
