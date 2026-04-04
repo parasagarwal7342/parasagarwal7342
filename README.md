@@ -48,6 +48,18 @@ Paraditi Corp is my conceptual framework for a future cybersecurity startup. **N
       <img src="https://img.shields.io/badge/PUBLIC-161b22?style=flat-square" />
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📘 Sentinel-AI (Week 2)</h4>
+      <p><small>Sovereign Email Intelligence & Fraud Forensics. Hybrid ML ensemble + AOB v3.0 Structural Entropy detection. <b>[Patent Pending: PARADITI CORP]</b></small></p>
+      <img src="https://img.shields.io/badge/PARADITI_CORP-161b22?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>📘 HexGuard FIM (Week 1)</h4>
+      <p><small>Enterprise-Grade File Integrity Monitor. Kernel-level syscall event tracing with AI threat analytics. <b>[Patented: PARADITI CORP]</b></small></p>
+      <img src="https://img.shields.io/badge/PARADITI_CORP-161b22?style=flat-square" />
+    </td>
+  </tr>
 </table>
 
 ---
