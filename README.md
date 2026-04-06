@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=PARAS+AGRAWAL;Cybersecurity+Researcher+%F0%9F%94%92;AI+Systems+Architect+%F0%9F%A4%96;Founder+%40+Paraditi+Corp+%F0%9F%9A%80" alt="Executive Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=PARAS+AGRAWAL;Cybersecurity+Professional+%F0%9F%94%92;AI+Systems+Architect+%F0%9F%A4%96;Founder+%40+Paraditi+Corp+%F0%9F%9A%80" alt="Executive Header" />
 
 <br/>
 
-**Cybersecurity Researcher & Systems Architect | Advancing National-Scale AI Defense.**  
-Visionary Founder of Paraditi Corp. Currently specializing in M.Tech Information Security at Netaji Subhas University of Technology (NSUT), Delhi.
+**Cybersecurity Professional currently pursuing M.Tech in Information Security.**  
+Passionate about identifying vulnerabilities and building secure digital ecosystems. Visionary Founder of Paraditi Corp.
 
 <br/>
 
