@@ -60,7 +60,7 @@ Paraditi is a mission-driven framework for Digital Sovereignty. All initiatives 
 
 ### 📖 Professional & Academic Track
 
-- **Founder & Visionary** @ Paraditi Corp (Current) — Architecting Sovereign Digital Defense.
+- **Founder & Visionary** @ Paraditi Corp — Leading a sovereign framework for Digital Defense. **(Core Achievement: Successful delivery of SPA Enterprise Platform for high-scale commerce).**
 - **M.Tech Scholar** in Information Security — Netaji Subhas University of Technology, Delhi.
 - **Graduate Engineer (B.Tech)** — Maharishi University (Noida).
 
