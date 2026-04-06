@@ -23,6 +23,7 @@
 
 Paraditi Corp is the culmination of two decades of industry expertise—a framework for India's digital sovereignty. **Strategic IP Portfolio: All PARADITI initiatives are fully Patented and Copyrighted.**
 
+#### **Active Market Solutions**
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
@@ -31,30 +32,46 @@ Paraditi Corp is the culmination of two decades of industry expertise—a framew
       <img src="https://img.shields.io/badge/PREMIUM-161b22?style=flat-square" />
     </td>
     <td width="33%" valign="top">
-      <h4>📘 ReturnShield</h4>
-      <p><small>Blockchain-anchored AI verification for MSME supply chains. Curtailing the ₹4,000 Cr fraud epidemic. <b>[Patented]</b></small></p>
+      <h4>📘 ResidentialOS</h4>
+      <p><small>Digital Twin Society Governance. IoT-integrated apartment management with Jarvis AI & blockchain audit ledgers. <b>[Patented]</b></small></p>
       <img src="https://img.shields.io/badge/PREMIUM-161b22?style=flat-square" />
     </td>
     <td width="33%" valign="top">
+      <h4>📘 Spatial-Intel</h4>
+      <p><small>3D Geospatial AI mapping for informal settlements. Autonomous Urban Reblocking via NetworkX. <b>[Patented]</b></small></p>
+      <img src="https://img.shields.io/badge/PREMIUM-161b22?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+#### **Enterprise Prototypes & Sovereign Labs**
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📘 ReturnShield</h4>
+      <p><small>Blockchain-anchored AI verification for MSME supply chains. Curtailing the ₹4,000 Cr fraud epidemic. <b>[Patented]</b></small></p>
+      <img src="https://img.shields.io/badge/BETA-161b22?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
       <h4>📘 AutoCA-4.0</h4>
       <p><small>Sovereign Financial AI Intelligence. Automating compliance with distributed ledger audit trails. <b>[Patented]</b></small></p>
-      <img src="https://img.shields.io/badge/PREMIUM-161b22?style=flat-square" />
+      <img src="https://img.shields.io/badge/BETA-161b22?style=flat-square" />
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
       <h4>📘 Sentinel-AI</h4>
-      <p><small>Sovereign Fraud Forensics. Hybrid ML ensemble detecting high-entropy adversarial threats. <b>[Patent Pending]</b></small></p>
+      <p><small>Hybrid ML Forensics. Flagging threats based on Non-Linear Manipulation Entropy. <b>[Patent Pending]</b></small></p>
       <img src="https://img.shields.io/badge/ACTIVE-161b22?style=flat-square" />
     </td>
     <td width="33%" valign="top">
       <h4>📘 HexGuard FIM</h4>
-      <p><small>Enterprise File Integrity Monitor. Kernel-level syscall event tracing for real-time ransomware neutralizing. <b>[Patented]</b></small></p>
+      <p><small>Kernel-level syscall event tracing for real-time ransomware neutralizing. <b>[Patented]</b></small></p>
       <img src="https://img.shields.io/badge/ACTIVE-161b22?style=flat-square" />
     </td>
     <td width="33%" valign="top">
       <h4>📘 Sahaj (P Λ R Λ D I T I)</h4>
-      <p><small>AI-Native Economic Mobility Platform. Voice-first intent discovery for 800M+ citizens in regional dialects.</small></p>
+      <p><small>AI-Native Economic Mobility Platform. Voice-first intent discovery for 800M+ citizens.</small></p>
       <img src="https://img.shields.io/badge/CORE-161b22?style=flat-square" />
     </td>
   </tr>
@@ -62,17 +79,14 @@ Paraditi Corp is the culmination of two decades of industry expertise—a framew
 
 ---
 
-### 🚀 Flagship Project: Resume-Analyzer
+### 🚀 High-Authority Platform Demonstration
 
-**[Resume-Analyzer](https://github.com/parasagarwal7342/Resume-Analyzer)** is an enterprise AI platform delivering deep behavioral insights and skill-gap analysis for the modern workforce.
-
-- 🧠 **Behavioral Archetyping**: Advanced LLM-driven persona extraction.
-- 🎯 **Market Alignment**: Strategic compatibility scoring against global standards.
-- 📈 **Intellectual Asset Assessment**: Quantifying technical debt and potential.
+- **[SPA Master Platform](https://github.com/parasagarwal7342/SPA)**: Enterprise-grade e-commerce engine with regional logistics and high-fidelity branding.
+- **[Resume-Analyzer](https://github.com/parasagarwal7342/Resume-Analyzer)**: Talent Acquisition Intelligence via Behavioral Archetyping.
 
 ---
 
-### 🛠️ Strategic Expertise
+### 🛠️ Strategic Expertise Roadmap
 
 #### **Cybersecurity & Infrastructure**
 ![Security Architecture](https://img.shields.io/badge/Security_Architecture-Senior-red?style=flat-square)
@@ -88,11 +102,11 @@ Paraditi Corp is the culmination of two decades of industry expertise—a framew
 
 ---
 
-### 🎓 Professional Background
+### 🎓 Professional tenure
 
 - **Executive Advisory** @ Paraditi Corp (Current)
-- **Principal Security Researcher** (18+ Years Industry Track Record)
-- **Advanced Academic Tenure**: M.Tech InfoSec (NSUT) & B.Tech CS (Advancing Digital Frontiers)
+- **Principal Security Researcher** (18+ Years Industry Presence)
+- **Academic Pillars**: M.Tech InfoSec (NSUT) & B.Tech CS (Maharishi University)
 - **Global Certifications**: CEH, AWS Architect, Senior VAPT Analyst.
 
 <div align="center">
