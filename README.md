@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=PARAS+AGRAWAL;Senior+Cybersecurity+Architect+%F0%9F%94%92;AI+Systems+Engineer+%F0%9F%A4%96;Founder+%40+Paraditi+Corp+%F0%9F%9A%80" alt="Executive Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=PARAS+AGRAWAL;Cybersecurity+Researcher+%F0%9F%94%92;AI+Systems+Architect+%F0%9F%A4%96;Founder+%40+Paraditi+Corp+%F0%9F%9A%80" alt="Executive Header" />
 
 <br/>
 
-**Architecting Sovereign Digital Ecosystems — 18+ Years of Industry Leadership.**  
-Focused on Zero-Trust Infrastructure, Behavioral AI Intelligence, and National-Scale Security Governance.
+**Cybersecurity Researcher & Systems Architect | Advancing National-Scale AI Defense.**  
+Visionary Founder of Paraditi Corp. Currently specializing in M.Tech Information Security at Netaji Subhas University of Technology (NSUT), Delhi.
 
 <br/>
 
@@ -45,28 +45,28 @@ Paraditi is a mission-driven framework for Digital Sovereignty. All initiatives 
 
 ### 🛠️ Core Competencies & Institutional Expertise
 
-#### **Deep Cybersecurity**
-- **Infrastructure:** Defending Mission-Critical Networks | Zero-Trust Zero-Day Neutralizing.
-- **Offensive:** Advanced Red Teaming | Enterprise-Grade VAPT | Kernel-Level Forensics.
-- **Architecture:** Sovereign Identity Frameworks | Quantum-Safe Cryptographic Pillars.
+#### **Cybersecurity & Research**
+- **VAPT:** Penetration Testing | Ethical Hacking | Vulnerability Assessment.
+- **Defense:** Incident Response | Threat Analysis | Malware Forensics.
+- **Identity:** Zero-Trust Infrastructure | Secure IAM Governance.
 
 #### **Systems Engineering & AI**
-- **AIOps:** Designing Behavioral AI Models | LLM Infrastructure Scaling (Ollama / VLLM).
-- **Embedded:** Real-time RTOS Security | SCADA & IoT System Hardening.
-- **Full-Stack:** High-Performance Backends (Python/Rust) | High-Fidelity Frontends (TypeScript).
+- **AI Forensics:** Designing Behavioral AI Models | Non-Linear Manipulation Entropy Tracking.
+- **Architectures:** SpringBoot | High-Performance Python Backends | React Engineering.
+- **Systems:** Linux Systems Hardening | SQL Injection Pre-emptive Shielding.
 
 ---
 
-### 📖 Professional tenure
+### 📖 Professional & Academic Track
 
-- **Founder & Chief Visionary** @ Paraditi Corp (Current) — Leading India's Charge in Sovereign Tech.
-- **Principal Security Researcher** — 18+ Years of proven technical excellence in private & public sectors.
-- **Academic Research**: M.Tech in Information Security (Netaji Subhas University of Technology).
+- **Founder & Visionary** @ Paraditi Corp (Current) — Architecting Sovereign Digital Defense.
+- **M.Tech Scholar** in Information Security — Netaji Subhas University of Technology, Delhi.
+- **Graduate Engineer (B.Tech)** — Maharishi University (Noida).
 
 <br/>
 
 <div align="center">
-  <sub>**"Integrity at the architectural level is the only true defense."**</sub>
+  <sub>**"Architectural integrity is the first line of digital defense."**</sub>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=parasagarwal7342&color=6366f1&style=flat-square&label=Venture+Inquiries" alt="Profile Views" />
 </div>
