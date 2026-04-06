@@ -25,12 +25,13 @@ Paraditi is a mission-driven framework for Digital Sovereignty. All initiatives 
 
 **核心 (Core Platform)**
 - **[Digital-Shield-v2](https://github.com/parasagarwal7342/UPI-Fraud-Shield)** — Enterprise-grade fraud intercept. Processes 14.4M+ nodal points in <14ms. `SECURE`
+- **[SPA Master Platform](https://github.com/parasagarwal7342/SPA)** — Enterprise e-commerce ecosystem **engineered & delivered** by Paraditi Corp for SPA Enterprises. `B2B DEPLOYED`
 - **[Spatial-Intel](https://github.com/parasagarwal7342/Slum-Mapper)** — Autonomous 3D geospatial mapping and urban reblocking for informal settlements. `CORE`
-- **[ResidentialOS](https://github.com/parasagarwal7342/Society-Management)** — Digital Twin residency governance with Jarvis AI and IoT integration. `DEPLOYED`
 
 <br/>
 
 **研究所 (Sovereign Labs)**
+- **ResidentialOS** — Digital Twin residency governance with Jarvis AI and IoT integration. `DEPLOYED`
 - **ReturnShield** — Blockchain-anchored AI verification for MSME supply chains. Curtailing ₹4k Cr fraud. `BETA`
 - **AutoCA-4.0** — Sovereign financial intelligence. Automating compliance via distributed ledger audit trails. `BETA`
 - **Sentinel-AI** — Hybrid ML forensics flagging threats via Non-Linear Manipulation Entropy. `ACTIVE`
