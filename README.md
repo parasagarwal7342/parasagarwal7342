@@ -25,27 +25,37 @@ Paraditi Corp is the culmination of two decades of industry expertise—a framew
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h4>📘 Digital-Shield-v2</h4>
-      <p><small>Enterprise-grade zero-trust fraud prevention. UBS Engine processes transactions in <14ms across 14.4M+ nodal points. <b>[Patented & Copyrighted]</b></small></p>
+      <p><small>Enterprise zero-trust fraud prevention. UBS Engine processes transactions in <14ms across 14.4M+ nodal points. <b>[Patented]</b></small></p>
       <img src="https://img.shields.io/badge/PREMIUM-161b22?style=flat-square" />
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h4>📘 ReturnShield</h4>
-      <p><small>Blockchain-anchored AI verification for MSME supply chains. Curtailing the ₹4,000 Cr fraud epidemic. <b>[Patented & Copyrighted]</b></small></p>
+      <p><small>Blockchain-anchored AI verification for MSME supply chains. Curtailing the ₹4,000 Cr fraud epidemic. <b>[Patented]</b></small></p>
+      <img src="https://img.shields.io/badge/PREMIUM-161b22?style=flat-square" />
+    </td>
+    <td width="33%" valign="top">
+      <h4>📘 AutoCA-4.0</h4>
+      <p><small>Sovereign Financial AI Intelligence. Automating compliance with distributed ledger audit trails. <b>[Patented]</b></small></p>
       <img src="https://img.shields.io/badge/PREMIUM-161b22?style=flat-square" />
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h4>📘 AutoCA-4.0</h4>
-      <p><small>Sovereign Financial AI Intelligence. Automating compliance with distributed ledger audit trails. <b>[Patented & Copyrighted]</b></small></p>
-      <img src="https://img.shields.io/badge/PREMIUM-161b22?style=flat-square" />
-    </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h4>📘 Sentinel-AI</h4>
       <p><small>Sovereign Fraud Forensics. Hybrid ML ensemble detecting high-entropy adversarial threats. <b>[Patent Pending]</b></small></p>
       <img src="https://img.shields.io/badge/ACTIVE-161b22?style=flat-square" />
+    </td>
+    <td width="33%" valign="top">
+      <h4>📘 HexGuard FIM</h4>
+      <p><small>Enterprise File Integrity Monitor. Kernel-level syscall event tracing for real-time ransomware neutralizing. <b>[Patented]</b></small></p>
+      <img src="https://img.shields.io/badge/ACTIVE-161b22?style=flat-square" />
+    </td>
+    <td width="33%" valign="top">
+      <h4>📘 Sahaj (P Λ R Λ D I T I)</h4>
+      <p><small>AI-Native Economic Mobility Platform. Voice-first intent discovery for 800M+ citizens in regional dialects.</small></p>
+      <img src="https://img.shields.io/badge/CORE-161b22?style=flat-square" />
     </td>
   </tr>
 </table>
