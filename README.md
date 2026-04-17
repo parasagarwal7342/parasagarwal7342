@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=PARAS+AGRAWAL;Cybersecurity+Professional+%F0%9F%94%92;AI+Systems+Architect+%F0%9F%A4%96;Founder+%40+Paraditi+Corp+%F0%9F%9A%80" alt="Executive Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=PARAS+AGRAWAL;Cybersecurity+Professional+%F0%9F%94%92;AI+Systems+Architect+%F0%9F%A4%96;Founder+%40+Paravion+Corp+%F0%9F%9A%80" alt="Executive Header" />
 
 <br/>
 
 **Cybersecurity Professional currently pursuing M.Tech in Information Security.**  
-Passionate about identifying vulnerabilities and building secure digital ecosystems. Visionary Founder of Paraditi Corp.
+Passionate about identifying vulnerabilities and building secure digital ecosystems. Visionary Founder of Paravion Tech.
 
 <br/>
 
@@ -17,15 +17,15 @@ Passionate about identifying vulnerabilities and building secure digital ecosyst
 
 ---
 
-### 🏛️ Paraditi Corp — Strategic IP & Venture Portfolio
+### 🏛️ Paravion Tech — Strategic IP & Venture Portfolio
 
-Paraditi is a mission-driven framework for Digital Sovereignty. All initiatives are protected by **Strategic Intellectual Property Rights**.
+Paravion is a mission-driven framework for Digital Sovereignty. All initiatives are protected by **Strategic Intellectual Property Rights**.
 
 <br/>
 
 **核心 (Core Platform)**
 - **[Digital-Shield-v2](https://github.com/parasagarwal7342/UPI-Fraud-Shield)** — Enterprise-grade fraud intercept. Processes 14.4M+ nodal points in <14ms. `SECURE`
-- **[SPA Master Platform](https://github.com/parasagarwal7342/SPA)** — Enterprise e-commerce ecosystem **engineered & delivered** by Paraditi Corp for SPA Enterprises. `B2B DEPLOYED`
+- **[SPA Master Platform](https://github.com/parasagarwal7342/SPA)** — Enterprise e-commerce ecosystem **engineered & delivered** by Paravion Tech for SPA Enterprises. `B2B DEPLOYED`
 - **[Spatial-Intel](https://github.com/parasagarwal7342/Slum-Mapper)** — Autonomous 3D geospatial mapping and urban reblocking for informal settlements. `CORE`
 
 <br/>
@@ -60,7 +60,7 @@ Paraditi is a mission-driven framework for Digital Sovereignty. All initiatives 
 
 ### 📖 Professional & Academic Track
 
-- **Founder & Visionary** @ Paraditi Corp — Leading a sovereign framework for Digital Defense. **(Core Achievement: Successful delivery of SPA Enterprise Platform for high-scale commerce).**
+- **Founder & Visionary** @ Paravion Tech — Leading a sovereign framework for Digital Defense. **(Core Achievement: Successful delivery of SPA Enterprise Platform for high-scale commerce).**
 - **M.Tech Scholar** in Information Security — Netaji Subhas University of Technology, Delhi.
 - **Graduate Engineer (B.Tech)** — Maharishi University (Noida).
 
