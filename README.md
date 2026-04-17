@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=PARAS+AGRAWAL;Cybersecurity+Professional+%F0%9F%94%92;AI+Systems+Architect+%F0%9F%A4%96;Founder+%40+Paravion+Corp+%F0%9F%9A%80" alt="Executive Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=PARAS+AGRAWAL;Cybersecurity+Professional+%F0%9F%94%92;AI+Systems+Architect+%F0%9F%A4%96;Founder+%40+Paravion+Tech+%F0%9F%9A%80" alt="Executive Header" />
 
 <br/>
 
@@ -40,7 +40,7 @@ Paravion is a mission-driven framework for Digital Sovereignty. All initiatives 
 
 **システム (Systems Architecture)**
 - **HexGuard FIM** — Kernel-level syscall event tracing for real-time ransomware neutralization. `STABLE`
-- **Sahaj (P Λ R Λ D I T I)** — AI-Native Economic Mobility Platform with voice-first intent recognition. `CORE`
+- **Sahaj (P Λ R Λ V I O N)** — AI-Native Economic Mobility Platform with voice-first intent recognition. `CORE`
 
 ---
 
